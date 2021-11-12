@@ -1,0 +1,26 @@
+.form-control {
+  margin-left: 7px;
+  margin-bottom: 7px;
+}
+
+.search-button {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #f68787;
+  padding: 8px 12px;
+  font-size: 14px;
+  position: relative;
+  left: 3px;
+}
+
+.current-button {
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  color: #fff;
+  background-color: #142d4c;
+  padding: 8px 12px;
+  font-size: 14px;
+  position: relative;
+  left: -7px;
+}

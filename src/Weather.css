@@ -1,0 +1,30 @@
+.temperature img {
+  vertical-align: top;
+}
+
+.temperature strong {
+  font-size: 40px;
+  vertical-align: top;
+  color: #142d4c;
+}
+
+.temperature .unit-temp {
+  font-size: 15px;
+  vertical-align: top;
+}
+
+.temperature .unit {
+  text-decoration: none;
+  cursor: default;
+  color: #142d4c;
+}
+
+.temperature .unit:hover {
+  text-decoration: none;
+}
+
+.humidity,
+.windspeed {
+  text-align: left;
+  color: #385170;
+}
