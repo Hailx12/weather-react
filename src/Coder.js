@@ -6,7 +6,7 @@ export default function Coder() {
   return (
     <div className="Coder">
       <a
-        href="https://github.com/Hailx12/sk-weather-app"
+        href="https://github.com/Hailx12/weather-react"
         target="_blank"
         rel="noreferrer"
       >
